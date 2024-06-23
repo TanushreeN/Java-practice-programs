@@ -14,4 +14,4 @@ class Multiply {
     }
 }
 
-// OP: The Multiplication of 6 and 4 is: 24
+//  OP: The Multiplication of 6 and 4 is: 24
