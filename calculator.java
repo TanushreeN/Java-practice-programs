@@ -43,10 +43,19 @@ class HelloWorld {
     }
 }
 
-// OP:Enter the Num1:
+// OP1:Enter the Num1:
 // 3
 // Select the operator:
 // +
 // Enter the Num2:
 // 5
 // Result: 8
+
+
+// OP2: Enter the Num1:
+// 4
+// Select the operator:
+// %
+// Enter the Num2:
+// 5
+// Ooops....The opration is not taken here
