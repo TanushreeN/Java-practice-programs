@@ -1,4 +1,5 @@
-class Subtract {
+class Subtract
+    {
     static class Calculator{
         int num1;
         int num2;
