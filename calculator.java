@@ -32,7 +32,8 @@ class HelloWorld
             {
                 System.out.println("Result: "+(Num1 / Num2));
             }
-            else{
+            else
+            {
                 System.out.println("Error !!!, Cannot Divide by zero");
             }
             break;
