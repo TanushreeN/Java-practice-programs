@@ -1,5 +1,6 @@
 //code
-class MethodDemo {
+class MethodDemo 
+{
     public void myMethod(){
         System.out.println("The code is executing using Method");
     }
