@@ -8,7 +8,8 @@ class Subtract
             return result;
         }
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Calculator c = new Calculator();
         int subtract = c.subtract(6,4);
         System.out.println("The subtraction of " + 6 + " and " + 4 + " is: " + subtract);
