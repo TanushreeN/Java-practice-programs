@@ -10,8 +10,7 @@ class Subtraction extends Addition
     void sub()
     {
         System.out.println("Hello");
-    }
-    
+    } 
 }
 class Main
 {
