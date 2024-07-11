@@ -6,5 +6,4 @@ class Concatenate
     }
 }
 
-
 // OP: Hai Tanu
