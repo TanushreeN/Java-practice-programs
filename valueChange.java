@@ -1,4 +1,5 @@
-class valueChange {
+class valueChange 
+{
     int a = 10;
     public static void main(String[] args) {
         int a = 12;
