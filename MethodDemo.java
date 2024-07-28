@@ -1,4 +1,5 @@
 //code
+
 class MethodDemo 
 {
     public void myMethod(){
