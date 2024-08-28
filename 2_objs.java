@@ -24,6 +24,7 @@ public class HelloWorld {
     }
 }
 
+
 //output by creating 2 objects created..
 //op: Samsung : 20000 : phone
 //    Apple : 80000 : phone
