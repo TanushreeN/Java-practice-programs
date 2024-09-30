@@ -1,5 +1,7 @@
-class Days {
-    public static void main(String[] args) {
+class Days 
+{
+    public static void main(String[] args) 
+    {
        int day = 4;
        switch(day){
         case 1: 
