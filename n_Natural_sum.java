@@ -9,7 +9,6 @@ public class n_Natural_sum
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
 				
-		
 		sum = n * (n+1)/2;
 			
 		System.out.println(sum);
