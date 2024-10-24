@@ -4,6 +4,7 @@ class Interest {
     {
         return (int) ((p * t * r)/100);
     }
+
     public static void main(String[] args) {
         Interest in = new Interest();
          int Result = in.result(1000, 5, 5);
