@@ -11,4 +11,5 @@ class MethodDemo
     }
 }
 
+
 // output: The code is executing using Method.
