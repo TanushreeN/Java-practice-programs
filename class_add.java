@@ -7,6 +7,7 @@ class Addition {
             return result;
         }
     }
+
     public static void main(String[] args) {
         Calculator c = new Calculator();
         int sum = c.add(6,4);
