@@ -1,4 +1,5 @@
-class Interest {
+class Interest 
+{
     
     public int result(float p, float t, float r)
     {
